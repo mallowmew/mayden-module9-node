@@ -1,0 +1,15 @@
+# IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.idea
+
+# dependencies
+/node_modules
+*/node_modules
+
+#Mac stuff
+.DS_Store
